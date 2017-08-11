@@ -23,5 +23,10 @@ background-color: #343838;
 }
 
 .page {
+
   background-color: #005f6b;
+}
+
+select {
+  background-color: lightgrey;
 }
