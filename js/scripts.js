@@ -11,13 +11,12 @@ $(document).ready(function(event) {
 
 
     if ((total === 5) || (total === 15)||(total === 24)||(total === 25)||(total === 34)||(total === 43) ){
-      $(".csharp").show();}
+      $(".csharp").show("veryslow");}
     else if ((total === 35) || (total === 45)||(total === 55)||(total === 64)||(total === 73)||(total === 54) ){
-      $(".ruby").show();}
+      $(".ruby").show("veryslow")}
     else{
-      $(".design").show();
-
-    }
+      $(".design").show("veryslow");
+      }
 
 
 
