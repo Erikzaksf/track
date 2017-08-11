@@ -1,6 +1,6 @@
 
 $(document).ready(function(event) {
-  $("form#movie").submit(function(event) {
+  $("form#track").submit(function(event) {
   event.preventDefault();
     var total = 0;
     total += parseInt($("select#fave").val());

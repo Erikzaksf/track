@@ -12,3 +12,16 @@
  .romance {
    display: none;
  }
+
+.jumbotron {
+  color: #008c9e;
+background-color: #343838;
+}
+
+.btn{
+  color: #343838;
+}
+
+.page {
+  background-color: #005f6b;
+}
