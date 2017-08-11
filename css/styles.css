@@ -1,17 +1,15 @@
-.mixed {
+.csharp {
   display: none;
 }
 
-.action {
+.ruby {
   display: none;
 }
 
-.comedy {
+.design {
   display: none;
 }
- .romance {
-   display: none;
- }
+
 
 .jumbotron {
   color: #008c9e;
