@@ -28,3 +28,8 @@ background-color: #343838;
 select {
   background-color: lightgrey;
 }
+
+img {
+  width: 50%;
+  height: 50%;
+}
