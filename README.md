@@ -1,4 +1,4 @@
-# Project Title
+# Coding Course Path
 
 This is a solo project for my second week at Epicodus. I am tasked with creating a webpage that will give the user a coding course that they may get the most out of. It contains 5 questions and 3 answers per question.
 
